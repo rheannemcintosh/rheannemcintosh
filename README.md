@@ -1,7 +1,10 @@
 ### Hi, I'm Rheanne 👋
 
-#### My Work
 [See More Info on My Wiki!](https://github.com/rheannemcintosh/rheannemcintosh/wiki)
+
+* Github: [@rheannemcintosh](https://github.com/rheannemcintosh)
+* Instagram: [@rheannemcintosh](https://www.instagram.com/rheannemcintosh/)
+* Twitter: [@rheannemcintosh](https://twitter.com/rheannemcintosh)
 
 <!--
 **rheannemcintosh/rheannemcintosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
